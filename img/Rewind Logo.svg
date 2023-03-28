@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="500.00003"
+   viewBox="0 0 1000 500.00003"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="C:\Users\RigoS\AppData\Local\Temp\ink_ext_XXXXXX.svgCT3WT1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview506"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.25"
+     inkscape:cx="30.0"
+     inkscape:cy="30.0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid629" />
+  </sodipodi:namedview>
+  <defs
+     id="defs501">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2057">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop2055" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop2053" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1671">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1667" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop1669" />
+    </linearGradient>
+    <rect
+       x="-333.93954"
+       y="274.93015"
+       width="553.24292"
+       height="171.46065"
+       id="rect690" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1671"
+       id="linearGradient1673"
+       x1="-332.61133"
+       y1="304.81363"
+       x2="-171.30934"
+       y2="304.81363"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2057"
+       id="linearGradient2059"
+       x1="-514.57111"
+       y1="540.67889"
+       x2="216.24667"
+       y2="540.67889"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="matrix(1.3724024,0,0,1.3724025,1332.7402,-53.128325)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-560,-300.00009)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.8639px;font-family:'Informal Roman';-inkscape-font-specification:'Informal Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2059);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.19343;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+       x="624.65894"
+       y="717.64758"
+       id="text1777"
+       transform="scale(0.93344548,1.0712999)"><tspan
+         sodipodi:role="line"
+         id="tspan1775"
+         x="624.65894"
+         y="717.64758"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:98.8639px;font-family:Jokerman;-inkscape-font-specification:'Jokerman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient2059);fill-opacity:1;stroke:none;stroke-width:2.19343;stroke-opacity:1">there and back again</tspan></text>
+    <path
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.18704;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1"
+       d="m 562.59353,656.15871 c 996.47097,6.12958 14.9222,69.46863 14.9222,69.46863 l 979.89077,-61.29585 v 0"
+       id="path1618"
+       inkscape:export-filename="Rewind Logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       id="text688"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect690);fill:url(#linearGradient1673);fill-opacity:1;fill-rule:evenodd;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:bevel"
+       transform="matrix(5.0227419,0,0,9.3255386,2316.7797,-2351.3049)"
+       inkscape:export-filename="Rewind Logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="-333.93945"
+         y="322.06622"
+         id="tspan4312">Rewind</tspan></text>
+  </g>
+</svg>
